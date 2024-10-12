@@ -1,0 +1,23 @@
+
+
+Additional Concepts:
+
+- Lifecycle Methods
+
+- Redux (Centralized State Management)
+
+- React Router
+
+- React Context API
+
+- Axios / Fetch for RestAPI Handling
+
+Official Documentation:
+
+https://react.dev/
+
+YouTube Resources:
+
+Codevolution React Playlist
+
+Programming with Mosh
